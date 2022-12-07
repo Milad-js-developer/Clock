@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    direction: ltr;
+    font-family: Century;
+    background-color: black;
+    color: white;
+}
+
+header {
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.container {
+    width: 50vw;
+    height: auto;
+    margin: 200px auto;
+    text-align: center;
+    font-size: 2rem;
+    border: 1px solid purple;
+    padding: 10px 0;
+}
